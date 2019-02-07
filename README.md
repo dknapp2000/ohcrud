@@ -7,4 +7,8 @@ Targeted options are:
 - Check for a format table in the DB that can control form generation
 - Output format flag: html, react, (hbs?)
 
+Queston: since this is meant to be a service, how do we manage access?
+
+- OAuth2 ?
+- Webtoken ?
 
