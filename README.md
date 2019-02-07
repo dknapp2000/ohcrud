@@ -6,6 +6,7 @@ Targeted options are:
 - Page/form flag to display a complete web page or a form that can be inserted
 - Check for a format table in the DB that can control form generation
 - Output format flag: html, react, (hbs?)
+- Need to access relational columns as well as stored JSON/BSON
 
 Queston: since this is meant to be a service, how do we manage access?
 
